@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sindhu1412/Weather-.git/static/css/main.64c3b56b.css",
-    "main.js": "/sindhu1412/Weather-.git/static/js/main.887dab88.js",
-    "static/js/453.ed3810f9.chunk.js": "/sindhu1412/Weather-.git/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/sindhu1412/Weather-.git/index.html",
-    "main.64c3b56b.css.map": "/sindhu1412/Weather-.git/static/css/main.64c3b56b.css.map",
-    "main.887dab88.js.map": "/sindhu1412/Weather-.git/static/js/main.887dab88.js.map",
-    "453.ed3810f9.chunk.js.map": "/sindhu1412/Weather-.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Weather/static/css/main.64c3b56b.css",
+    "main.js": "/Weather/static/js/main.339e68e3.js",
+    "static/js/453.ed3810f9.chunk.js": "/Weather/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Weather/index.html",
+    "main.64c3b56b.css.map": "/Weather/static/css/main.64c3b56b.css.map",
+    "main.339e68e3.js.map": "/Weather/static/js/main.339e68e3.js.map",
+    "453.ed3810f9.chunk.js.map": "/Weather/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64c3b56b.css",
-    "static/js/main.887dab88.js"
+    "static/js/main.339e68e3.js"
   ]
 }
